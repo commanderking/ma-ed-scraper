@@ -1,0 +1,378 @@
+1539301614206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.zq7Psb3eckHs"
+2018-10-11 19:47:02.325 firefox-bin[65422:1721868] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:02.325 firefox-bin[65422:1721868] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:02.326 firefox-bin[65422:1721868] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:02.326 firefox-bin[65422:1721868] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:02.326 firefox-bin[65422:1721868] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:03.050 plugin-container[65423:1721949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 19:47:04.060 plugin-container[65425:1722075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301624102	Marionette	INFO	Listening on port 55189
+2018-10-11 19:47:17.355 plugin-container[65448:1722614] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301647297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.dLBfeSPXM2Ww"
+2018-10-11 19:47:28.758 firefox-bin[65467:1723011] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:28.758 firefox-bin[65467:1723011] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:28.758 firefox-bin[65467:1723011] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:28.758 firefox-bin[65467:1723011] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:28.759 firefox-bin[65467:1723011] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:47:29.102 plugin-container[65470:1723158] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301649750	Marionette	INFO	Listening on port 55388
+1539301649786	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 19:47:30.752 plugin-container[65471:1723249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539301932671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.rhshuJhAOJBQ"
+2018-10-11 19:52:14.013 firefox-bin[65839:1732589] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:52:14.013 firefox-bin[65839:1732589] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:52:14.013 firefox-bin[65839:1732589] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:52:14.014 firefox-bin[65839:1732589] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:52:14.014 firefox-bin[65839:1732589] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:52:14.548 plugin-container[65840:1732673] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301935248	Marionette	INFO	Listening on port 56896
+2018-10-11 19:52:15.309 plugin-container[65841:1732741] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301935350	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 19:52:48.394 plugin-container[65893:1733866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539301987430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.TPzsu71XvDMa"
+2018-10-11 19:53:08.788 firefox-bin[65933:1734448] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:53:08.788 firefox-bin[65933:1734448] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:53:08.788 firefox-bin[65933:1734448] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:53:08.788 firefox-bin[65933:1734448] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:53:08.788 firefox-bin[65933:1734448] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:53:09.133 plugin-container[65935:1734525] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539301989750	Marionette	INFO	Listening on port 57239
+1539301989806	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 19:53:10.831 plugin-container[65936:1734605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539302301934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.qdPE8cqC1uu5"
+2018-10-11 19:58:23.220 firefox-bin[66319:1743790] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:58:23.220 firefox-bin[66319:1743790] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:58:23.220 firefox-bin[66319:1743790] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:58:23.220 firefox-bin[66319:1743790] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:58:23.220 firefox-bin[66319:1743790] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 19:58:23.690 plugin-container[66320:1743878] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 19:58:24.499 plugin-container[66321:1743960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302304590	Marionette	INFO	Listening on port 58829
+1539302304613	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539302511184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.hX83YSd9K8d4"
+2018-10-11 20:01:52.897 firefox-bin[66589:1749711] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:01:52.897 firefox-bin[66589:1749711] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:01:52.897 firefox-bin[66589:1749711] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:01:52.897 firefox-bin[66589:1749711] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:01:52.897 firefox-bin[66589:1749711] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:01:53.309 plugin-container[66591:1749792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302513989	Marionette	INFO	Listening on port 59926
+1539302514060	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:01:55.490 plugin-container[66592:1749889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302665827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.07SyKmfbR27t"
+2018-10-11 20:04:27.208 firefox-bin[66770:1754351] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:04:27.208 firefox-bin[66770:1754351] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:04:27.208 firefox-bin[66770:1754351] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:04:27.209 firefox-bin[66770:1754351] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:04:27.209 firefox-bin[66770:1754351] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:04:27.618 plugin-container[66771:1754426] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302668312	Marionette	INFO	Listening on port 60741
+1539302668420	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:04:29.412 plugin-container[66776:1754575] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302718126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.nqjRQ9PcH8QB"
+2018-10-11 20:05:19.638 firefox-bin[66856:1755975] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:05:19.638 firefox-bin[66856:1755975] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:05:19.638 firefox-bin[66856:1755975] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:05:19.638 firefox-bin[66856:1755975] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:05:19.639 firefox-bin[66856:1755975] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:05:20.045 plugin-container[66858:1756103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302720660	Marionette	INFO	Listening on port 61056
+1539302720739	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:05:21.317 plugin-container[66860:1756246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539302838899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.I3sEl2AJRhvU"
+2018-10-11 20:07:20.199 firefox-bin[67005:1760566] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:07:20.199 firefox-bin[67005:1760566] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:07:20.199 firefox-bin[67005:1760566] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:07:20.200 firefox-bin[67005:1760566] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:07:20.200 firefox-bin[67005:1760566] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:07:20.595 plugin-container[67006:1760646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302841208	Marionette	INFO	Listening on port 61701
+1539302841297	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:07:22.132 plugin-container[67012:1760788] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539302911015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.E4lvjqT4F0eK"
+2018-10-11 20:08:32.287 firefox-bin[67111:1762540] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:32.288 firefox-bin[67111:1762540] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:32.288 firefox-bin[67111:1762540] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:32.288 firefox-bin[67111:1762540] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:32.288 firefox-bin[67111:1762540] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:32.638 plugin-container[67116:1762661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302913172	Marionette	INFO	Listening on port 62098
+1539302913278	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:08:34.072 plugin-container[67117:1762745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539302937871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.BUulngb5GRGD"
+2018-10-11 20:08:59.075 firefox-bin[67171:1763650] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:59.075 firefox-bin[67171:1763650] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:59.075 firefox-bin[67171:1763650] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:59.075 firefox-bin[67171:1763650] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:59.075 firefox-bin[67171:1763650] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:08:59.455 plugin-container[67172:1763726] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302939960	Marionette	INFO	Listening on port 62287
+1539302940033	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:09:00.969 plugin-container[67173:1763811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302958101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.X88yvqGcVIE3"
+2018-10-11 20:09:19.426 firefox-bin[67216:1764473] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:19.426 firefox-bin[67216:1764473] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:19.426 firefox-bin[67216:1764473] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:19.426 firefox-bin[67216:1764473] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:19.426 firefox-bin[67216:1764473] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:19.813 plugin-container[67217:1764542] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302960395	Marionette	INFO	Listening on port 62448
+1539302960484	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:09:21.325 plugin-container[67218:1764621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302991777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.sHBByiqrtqUf"
+2018-10-11 20:09:53.358 firefox-bin[67272:1765290] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:53.358 firefox-bin[67272:1765290] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:53.358 firefox-bin[67272:1765290] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:53.358 firefox-bin[67272:1765290] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:53.359 firefox-bin[67272:1765290] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:09:53.791 plugin-container[67278:1765458] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539302994454	Marionette	INFO	Listening on port 62673
+1539302994555	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:09:55.775 plugin-container[67279:1765544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303012988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.zHMvsrD7fwNO"
+2018-10-11 20:10:14.451 firefox-bin[67325:1766181] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:10:14.452 firefox-bin[67325:1766181] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:10:14.452 firefox-bin[67325:1766181] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:10:14.452 firefox-bin[67325:1766181] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:10:14.452 firefox-bin[67325:1766181] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:10:14.852 plugin-container[67331:1766350] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x712b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303015385	Marionette	INFO	Listening on port 62845
+1539303015477	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:10:16.881 plugin-container[67333:1766449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539303447699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.r3l9gM0QaMnw"
+2018-10-11 20:17:29.337 firefox-bin[67877:1777105] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:29.337 firefox-bin[67877:1777105] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:29.338 firefox-bin[67877:1777105] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:29.338 firefox-bin[67877:1777105] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:29.338 firefox-bin[67877:1777105] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:29.831 plugin-container[67878:1777181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303450589	Marionette	INFO	Listening on port 65084
+1539303450633	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:17:31.023 plugin-container[67883:1777327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539303471684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.bgjOz3xnChdq"
+2018-10-11 20:17:53.044 firefox-bin[67918:1778111] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:53.044 firefox-bin[67918:1778111] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:53.044 firefox-bin[67918:1778111] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:53.044 firefox-bin[67918:1778111] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:53.045 firefox-bin[67918:1778111] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:17:53.384 plugin-container[67920:1778193] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303473948	Marionette	INFO	Listening on port 65272
+1539303474043	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:17:55.019 plugin-container[67921:1778276] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539303502490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.RwhSl5kqiSSw"
+2018-10-11 20:18:23.831 firefox-bin[67987:1779139] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:18:23.831 firefox-bin[67987:1779139] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:18:23.832 firefox-bin[67987:1779139] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:18:23.832 firefox-bin[67987:1779139] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:18:23.832 firefox-bin[67987:1779139] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:18:24.156 plugin-container[67989:1779220] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303504763	Marionette	INFO	Listening on port 65481
+1539303504854	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:18:25.596 plugin-container[67990:1779300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539303772405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.eIAgg13Wknxq"
+2018-10-11 20:22:53.702 firefox-bin[68306:1786101] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:22:53.703 firefox-bin[68306:1786101] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:22:53.703 firefox-bin[68306:1786101] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:22:53.703 firefox-bin[68306:1786101] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:22:53.703 firefox-bin[68306:1786101] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:22:54.027 plugin-container[68307:1786174] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539303774594	Marionette	INFO	Listening on port 50437
+1539303774666	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:22:55.625 plugin-container[68309:1786263] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539304234465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.XKNz2JLsILWG"
+2018-10-11 20:30:36.114 firefox-bin[68812:1796752] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:36.114 firefox-bin[68812:1796752] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:36.115 firefox-bin[68812:1796752] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:36.115 firefox-bin[68812:1796752] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:36.115 firefox-bin[68812:1796752] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:36.646 plugin-container[68814:1796828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 20:30:37.413 plugin-container[68819:1796961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304237422	Marionette	INFO	Listening on port 52680
+1539304237458	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539304247344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.WwVkiZYex2fl"
+2018-10-11 20:30:48.619 firefox-bin[68844:1797414] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:48.619 firefox-bin[68844:1797414] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:48.619 firefox-bin[68844:1797414] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:48.619 firefox-bin[68844:1797414] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:48.619 firefox-bin[68844:1797414] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:30:48.951 plugin-container[68845:1797519] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304249547	Marionette	INFO	Listening on port 52812
+1539304249610	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:30:50.896 plugin-container[68846:1797603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539304454422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.8h7O08aKsjgv"
+2018-10-11 20:34:15.728 firefox-bin[69100:1803830] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:15.728 firefox-bin[69100:1803830] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:15.728 firefox-bin[69100:1803830] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:15.728 firefox-bin[69100:1803830] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:15.728 firefox-bin[69100:1803830] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:16.077 plugin-container[69105:1803946] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304456681	Marionette	INFO	Listening on port 53884
+1539304456783	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:34:17.361 plugin-container[69107:1804025] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539304476507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.mnDdtXdrkoDn"
+2018-10-11 20:34:37.803 firefox-bin[69156:1804677] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:37.804 firefox-bin[69156:1804677] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:37.804 firefox-bin[69156:1804677] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:37.804 firefox-bin[69156:1804677] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:37.804 firefox-bin[69156:1804677] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:34:38.183 plugin-container[69157:1804746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304478764	Marionette	INFO	Listening on port 54041
+1539304478852	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:34:39.532 plugin-container[69158:1804822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539304508764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.vh1SOSHVokku"
+2018-10-11 20:35:10.033 firefox-bin[69225:1805874] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:35:10.033 firefox-bin[69225:1805874] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:35:10.033 firefox-bin[69225:1805874] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:35:10.033 firefox-bin[69225:1805874] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:35:10.033 firefox-bin[69225:1805874] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:35:10.394 plugin-container[69226:1805938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304510971	Marionette	INFO	Listening on port 54268
+1539304511040	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:35:12.245 plugin-container[69231:1806082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539304583316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.Plv4YZijJFDJ"
+2018-10-11 20:36:24.599 firefox-bin[69349:1808485] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:36:24.599 firefox-bin[69349:1808485] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:36:24.599 firefox-bin[69349:1808485] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:36:24.600 firefox-bin[69349:1808485] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:36:24.600 firefox-bin[69349:1808485] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:36:24.945 plugin-container[69350:1808556] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304585495	Marionette	INFO	Listening on port 54676
+1539304585598	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:36:26.498 plugin-container[69351:1808642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539304697373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.D9U67Zoea1L2"
+2018-10-11 20:38:18.622 firefox-bin[69507:1811606] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:18.622 firefox-bin[69507:1811606] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:18.622 firefox-bin[69507:1811606] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:18.623 firefox-bin[69507:1811606] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:18.623 firefox-bin[69507:1811606] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:19.060 plugin-container[69508:1811681] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304699612	Marionette	INFO	Listening on port 55295
+1539304699716	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:38:20.322 plugin-container[69513:1811819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539304734356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.1GzY1FFuQHzA"
+2018-10-11 20:38:55.618 firefox-bin[69587:1813006] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:55.619 firefox-bin[69587:1813006] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:55.619 firefox-bin[69587:1813006] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:55.619 firefox-bin[69587:1813006] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:55.619 firefox-bin[69587:1813006] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:38:55.959 plugin-container[69592:1813133] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304736510	Marionette	INFO	Listening on port 55533
+1539304736602	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:38:57.296 plugin-container[69594:1813216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304855837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.oieNq4pEgr9n"
+2018-10-11 20:40:57.182 firefox-bin[69741:1816781] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:40:57.182 firefox-bin[69741:1816781] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:40:57.182 firefox-bin[69741:1816781] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:40:57.182 firefox-bin[69741:1816781] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:40:57.182 firefox-bin[69741:1816781] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:40:57.579 plugin-container[69747:1816915] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304858291	Marionette	INFO	Listening on port 56185
+1539304858330	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:40:59.789 plugin-container[69748:1817006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304921227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1h/44q06vdn0pz7h5r51v8914w80000gn/T/rust_mozprofile.COQOon1g3tDR"
+2018-10-11 20:42:02.586 firefox-bin[69836:1819075] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:42:02.586 firefox-bin[69836:1819075] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:42:02.586 firefox-bin[69836:1819075] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:42:02.586 firefox-bin[69836:1819075] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:42:02.586 firefox-bin[69836:1819075] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-10-11 20:42:02.977 plugin-container[69837:1819143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539304923690	Marionette	INFO	Listening on port 56562
+1539304923803	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-11 20:42:05.014 plugin-container[69843:1819282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

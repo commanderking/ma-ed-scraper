@@ -30,7 +30,7 @@ for rows in soup.find_all('tr'):
     if len(row) == columnsCount:
         districtData.append(createDistrictData(headers, row))
 
-outputPath = './scrapedData' + outputFilename + '.json'
+outputPath = './scrapedData/' + outputFilename + '.json'
 
 with open(outputPath, 'w') as fp:
     json.dump(districtData, fp, sort_keys=True, indent=4)
